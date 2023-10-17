@@ -16,7 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Avalonia" Version="0.10.13" />
-    <PackageReference Include="Avalonia.Desktop" Version="0.10.13" />
+    <PackageReference Include="Avalonia.Desktop" Version="11.0.5" />
     <PackageReference Include="mameolan.Avalonia.Controlz" Version="1.0.0-CI-20211017-144151" />
     <PackageReference Include="mameolan.Avalonia.ExtendedToolkit" Version="1.0.0-CI-20211017-144151" />
    </ItemGroup>
